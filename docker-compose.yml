@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+   hospitaldetail24:
+     build:  .
+     ports: 
+       - 80:80
+       
+       
